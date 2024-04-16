@@ -1,1 +1,1 @@
-Welcome to # TailOS Website this will be replaced with other page 
+Welcome To The Tail OS Git Hub Repo 
